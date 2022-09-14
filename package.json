@@ -9,7 +9,6 @@
   ],
   "license": "MIT",
   "scripts": {
-    "install": "node ./build.js",
     "test": "node spec"
   },
   "dependencies": {
